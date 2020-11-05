@@ -1,0 +1,24 @@
+h1 {
+  color: #12cad6;
+}
+body {
+  background-color: #ffbd69;
+}
+/* Keep all the rules in alphabetic order ie color, background-color, etc*/
+img:hover {
+  background-color: gold;
+}
+/* Class-selector */
+.bacon {
+  background-color: red;
+}
+.broccoli {
+  background-color: green;
+}
+.circular{
+  border-radius: 200px;
+}
+/* IDselector */
+#heading {
+  color: blue;
+}
